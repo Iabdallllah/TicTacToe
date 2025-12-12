@@ -4,7 +4,6 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
-![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 **A modern, interactive Tic Tac Toe game with intelligent AI opponent**
