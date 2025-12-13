@@ -4,7 +4,6 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
-![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 **A modern, interactive Tic Tac Toe game with intelligent AI opponent**
@@ -396,3 +395,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - UI/UX design inspired by modern dark themes
 - Built with using Python and Tkinter
 
+---
+
+<div align="center">
+
+**Made with ❤️ and Python**
+
+⭐ Star this repo if you like it!
+
+</div>
